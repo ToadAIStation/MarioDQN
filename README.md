@@ -286,7 +286,7 @@ The goal is that you can open one file and see the full story:
 6. How the neural network is trained
 7. How gameplay is recorded
 
-This makes the code a little less “production style,” but much easier to learn from.
+This makes the code much easier to learn from.
 
 ---
 
