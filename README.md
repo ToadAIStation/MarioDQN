@@ -313,7 +313,7 @@ The boosted version adds improvements that are common in stronger DQN agents:
 
 The boosted agent generally learns faster and reaches stronger performance.
 
-![Training Comparison](images/dqn_training_comparison.png)
+![Training Comparison](images/base_vs_boost.png)
 
 If you are new to DQN, I recommend reading `2_basic_DQN.py` first.
 
