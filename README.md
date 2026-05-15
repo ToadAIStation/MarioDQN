@@ -353,3 +353,5 @@ This project uses:
 - TensorBoard
 
 Thanks for checking out the project. I hope it helps make Deep Q-Learning easier to understand.
+
+[Check out the video here](https://www.youtube.com/watch?v=QOFH7ts3IxM).
