@@ -349,7 +349,7 @@ This project uses:
 
 - PyTorch
 - Stable-Retro
-- Gymnasium-style RL tooling
+- Gymnasium RL tooling
 - TensorBoard
 
 Thanks for checking out the project. I hope it helps make Deep Q-Learning easier to understand.
