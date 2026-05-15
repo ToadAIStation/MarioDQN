@@ -308,6 +308,13 @@ The boosted version adds improvements that are common in stronger DQN agents:
 | Basic DQN | Replay buffer, target network, epsilon-greedy, TD learning | Learning the core algorithm |
 | Boosted DQN | Dueling, Double DQN, Noisy Nets | Better performance and experimentation |
 
+
+### Training Performance
+
+The boosted agent generally learns faster and reaches stronger performance.
+
+![Training Comparison](images/dqn_training_comparison.png)
+
 If you are new to DQN, I recommend reading `2_basic_DQN.py` first.
 
 ---
