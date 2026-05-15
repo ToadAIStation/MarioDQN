@@ -1,0 +1,15 @@
+# RL Environment
+stable-retro
+gymnasium
+
+# Deep Learning
+torch
+torchvision
+tensorboard
+
+# Numerical / Image Processing
+numpy
+opencv-python
+
+# Visualization
+matplotlib
