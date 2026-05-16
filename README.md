@@ -122,8 +122,8 @@ This is useful if you want to quickly see the final result before digging into t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/ToadAIStation/MarioDQN.git
+cd MarioDQN
 ```
 
 ### 2. Create a Python environment
